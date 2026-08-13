@@ -1,0 +1,579 @@
+{
+  "items": [
+    {
+      "description": "Pull requests on interesting tools/projects/resources are welcome.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "There are tons of learning material on the Web",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flight rules for Git",
+          "description": "guide about what to do when things go wrong",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T20:48:50Z",
+            "owner": "k88hudson",
+            "repo": "git-flight-rules",
+            "stars": 42595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Tips",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T06:01:21Z",
+            "owner": "git-tips",
+            "repo": "tips",
+            "stars": 21721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git & Git-Flow Cheat Sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-04T07:50:34Z",
+            "owner": "arslanbilal",
+            "repo": "git-cheat-sheet",
+            "stars": 7424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git-It",
+          "description": "Interactive Tutorial App that runs on your Desktop!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-04-10T10:28:06Z",
+            "owner": "jlord",
+            "repo": "git-it-electron",
+            "stars": 4890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fork and Pull Request Workflow",
+          "description": "Very nicely explained, simple and crisp way of understanding git fork and pull request workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2024-02-13T05:17:17Z",
+            "owner": "susam",
+            "repo": "gitpr",
+            "stars": 962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The ultimate guide to .gitignore",
+          "description": "All about .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-10T20:54:10Z",
+            "owner": "groda",
+            "repo": "the_ultimate_gitignore_guide",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Tutorial"
+    },
+    {
+      "description": "Git clients are available on every platform, from mainframe to your mobile device",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lazygit",
+          "description": "A simple terminal UI for git commands, written in Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T18:51:39Z",
+            "owner": "jesseduffield",
+            "repo": "lazygit",
+            "stars": 81309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ungit",
+          "description": "The easiest way to use git. On any platform. Anywhere.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T05:38:12Z",
+            "owner": "FredrikNoren",
+            "repo": "ungit",
+            "stars": 10595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rebased",
+          "description": "A git client based on the IntelliJ platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T05:38:00Z",
+            "owner": "DetachHead",
+            "repo": "rebased",
+            "stars": 4933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gittyup",
+          "description": "a graphical Git client designed to help you understand and manage your source code history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-21T07:18:29Z",
+            "owner": "Murmele",
+            "repo": "Gittyup",
+            "stars": 2255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Add-ons",
+          "description": "Enhance the basic CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-15T07:18:48Z",
+            "owner": "stevemao",
+            "repo": "awesome-git-addons",
+            "stars": 2187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SGit",
+          "description": "Git client for Android 4.x",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-11-18T17:21:26Z",
+            "owner": "sheimi",
+            "repo": "SGit",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitj (Git Journey)",
+          "description": "Fast, small, cross-platform GUI git client (gitk/git-gui style) with image diff support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-01T04:43:53Z",
+            "owner": "roblillack",
+            "repo": "gitj",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Client"
+    },
+    {
+      "description": "Or you can host the code yourselves",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "onedev",
+          "description": "Self-hosted Git Server with Kanban and CI/CD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T22:08:24Z",
+            "owner": "theonedev",
+            "repo": "onedev",
+            "stars": 15158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitBucket",
+          "description": "a GitHub clone powered by Scala.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-11T21:27:41Z",
+            "owner": "gitbucket",
+            "repo": "gitbucket",
+            "stars": 9388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Soft Serve",
+          "description": "a tasty, self-hostable Git server for the command line",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T20:42:49Z",
+            "owner": "charmbracelet",
+            "repo": "soft-serve",
+            "stars": 7147
+          }
+        }
+      ],
+      "title": "Self-Hosted Repository"
+    },
+    {
+      "description": "Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "husky",
+          "description": "modern native Git hooks made easy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-19T23:03:16Z",
+            "owner": "typicode",
+            "repo": "husky",
+            "stars": 35267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lefthook",
+          "description": "fast and powerful Git hooks manager for any type of project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T09:42:51Z",
+            "owner": "evilmartians",
+            "repo": "lefthook",
+            "stars": 8645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Overcommit",
+          "description": "a extendable Git hook manager written with Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T18:34:32Z",
+            "owner": "sds",
+            "repo": "overcommit",
+            "stars": 4007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mookme",
+          "description": "A simple and easy-to-use, yet powerful and language agnostic git hook for monorepos.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-01-02T21:01:48Z",
+            "owner": "Escape-Technologies",
+            "repo": "mookme",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quickhook",
+          "description": "a fast, Unix'y, opinionated Git hook runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-28T06:01:09Z",
+            "owner": "dirk",
+            "repo": "quickhook",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "Hook management"
+    },
+    {
+      "description": "Various tools for daily operations",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitIgnore Collection",
+          "description": "collection of gitignore files for various programming language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T16:06:45Z",
+            "owner": "github",
+            "repo": "gitignore",
+            "stars": 175280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-extras",
+          "description": "git utilities adding useful git commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T07:44:00Z",
+            "owner": "tj",
+            "repo": "git-extras",
+            "stars": 18096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tig",
+          "description": "text-mode interface for git.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-27T23:00:48Z",
+            "owner": "jonas",
+            "repo": "tig",
+            "stars": 13302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "release-it",
+          "description": "Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T07:29:51Z",
+            "owner": "release-it",
+            "repo": "release-it",
+            "stars": 9026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "conventional-changelog",
+          "description": "a set of tools for parsing conventional commit messages from git histories",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:31:49Z",
+            "owner": "conventional-changelog",
+            "repo": "conventional-changelog",
+            "stars": 8496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bash-git-prompt",
+          "description": "An informative and fancy bash prompt for Git users",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-10T16:26:04Z",
+            "owner": "magicmonty",
+            "repo": "bash-git-prompt",
+            "stars": 6933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gitrob",
+          "description": "a command line tool to find sensitive information lingering in publicly available files on GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-09-20T18:09:09Z",
+            "owner": "michenriksen",
+            "repo": "gitrob",
+            "stars": 6196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-absorb",
+          "description": ", but automatic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-14T03:44:46Z",
+            "owner": "tummychow",
+            "repo": "git-absorb",
+            "stars": 5685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghq",
+          "description": "Organization for remote repositories",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T09:16:33Z",
+            "owner": "x-motemen",
+            "repo": "ghq",
+            "stars": 3729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-git-addons",
+          "description": "lists more than 20 git addons including all available commands",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-15T07:18:48Z",
+            "owner": "stevemao",
+            "repo": "awesome-git-addons",
+            "stars": 2187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gickup",
+          "description": "Backup repos from various hosters to local or other hosters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T16:46:28Z",
+            "owner": "cooperspencer",
+            "repo": "gickup",
+            "stars": 1435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "multi-gitter",
+          "description": "a tool to make changes in multiple repositories simultaneously",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T23:03:51Z",
+            "owner": "lindell",
+            "repo": "multi-gitter",
+            "stars": 1228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-extra-commands",
+          "description": "Another collection of useful git commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T23:32:29Z",
+            "owner": "unixorn",
+            "repo": "git-extra-commands",
+            "stars": 1169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitbackup",
+          "description": "a tool to backup your Bitbucket, GitHub and GitLab repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-11T02:26:29Z",
+            "owner": "amitsaha",
+            "repo": "gitbackup",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "soba",
+          "description": "scheduled backups of repositories from popular providers with change detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T15:05:40Z",
+            "owner": "jonhadfield",
+            "repo": "soba",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitwalk",
+          "description": "Bulk processing of git repos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2018-10-17T15:13:07Z",
+            "owner": "pazdera",
+            "repo": "gitwalk",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-follow",
+          "description": "a tool for following lifetime changes of a file throughout the history of a Git repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-04-29T13:38:11Z",
+            "owner": "nickolasburr",
+            "repo": "git-follow",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:49:09.433Z",
+    "original_repository": "dictcp/awesome-git",
+    "original_repository_sha": "53cbab1c00dec23a2c2c5e4cb39c8ebae2275eda",
+    "enhanced_repository": "enhansome/enhansome-git",
+    "enhanced_repository_description": null,
+    "title": "Awesome Git with stars"
+  }
+}
