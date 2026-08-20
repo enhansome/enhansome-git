@@ -60,7 +60,7 @@
             "last_commit": "2024-04-10T10:28:06Z",
             "owner": "jlord",
             "repo": "git-it-electron",
-            "stars": 4890
+            "stars": 4891
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-02-13T05:17:17Z",
             "owner": "susam",
             "repo": "gitpr",
-            "stars": 962
+            "stars": 961
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 134017286,
             "language": "Go",
-            "last_commit": "2026-08-19T16:45:43Z",
+            "last_commit": "2026-08-20T19:58:53Z",
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 81472
+            "stars": 81506
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-18T13:46:31Z",
             "owner": "DetachHead",
             "repo": "rebased",
-            "stars": 5199
+            "stars": 5237
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2024-10-15T07:18:48Z",
             "owner": "stevemao",
             "repo": "awesome-git-addons",
-            "stars": 2190
+            "stars": 2192
           }
         },
         {
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 156317154,
             "language": "Java",
-            "last_commit": "2026-08-19T14:01:20Z",
+            "last_commit": "2026-08-20T14:07:26Z",
             "owner": "theonedev",
             "repo": "onedev",
-            "stars": 15166
+            "stars": 15167
           }
         },
         {
@@ -234,7 +234,7 @@
             "archived": false,
             "id": 9350746,
             "language": "Scala",
-            "last_commit": "2026-08-19T21:36:17Z",
+            "last_commit": "2026-08-20T17:30:52Z",
             "owner": "gitbucket",
             "repo": "gitbucket",
             "stars": 9391
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-12T20:42:49Z",
             "owner": "charmbracelet",
             "repo": "soft-serve",
-            "stars": 7183
+            "stars": 7187
           }
         }
       ],
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-17T13:13:47Z",
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8670
+            "stars": 8673
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-07-23T16:06:45Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175378
+            "stars": 175376
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-07-27T23:00:48Z",
             "owner": "jonas",
             "repo": "tig",
-            "stars": 13309
+            "stars": 13311
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2022-09-20T18:09:09Z",
             "owner": "michenriksen",
             "repo": "gitrob",
-            "stars": 6196
+            "stars": 6197
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2026-02-14T03:44:46Z",
             "owner": "tummychow",
             "repo": "git-absorb",
-            "stars": 5694
+            "stars": 5695
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2026-08-17T09:13:49Z",
             "owner": "x-motemen",
             "repo": "ghq",
-            "stars": 3747
+            "stars": 3748
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2024-10-15T07:18:48Z",
             "owner": "stevemao",
             "repo": "awesome-git-addons",
-            "stars": 2190
+            "stars": 2192
           }
         },
         {
@@ -561,7 +561,7 @@
             "archived": false,
             "id": 135833715,
             "language": "Go",
-            "last_commit": "2026-08-17T15:03:45Z",
+            "last_commit": "2026-08-20T17:30:46Z",
             "owner": "jonhadfield",
             "repo": "soba",
             "stars": 170
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:28:03.555Z",
+    "last_updated": "2026-08-20T23:31:13.747Z",
     "original_repository": "dictcp/awesome-git",
     "original_repository_id": 41074904,
     "original_repository_sha": "53cbab1c00dec23a2c2c5e4cb39c8ebae2275eda",
