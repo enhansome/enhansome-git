@@ -15,7 +15,7 @@
             "last_commit": "2026-07-23T20:48:50Z",
             "owner": "k88hudson",
             "repo": "git-flight-rules",
-            "stars": 42596
+            "stars": 42597
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-10T06:01:21Z",
             "owner": "git-tips",
             "repo": "tips",
-            "stars": 21721
+            "stars": 21722
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-03-04T07:50:34Z",
             "owner": "arslanbilal",
             "repo": "git-cheat-sheet",
-            "stars": 7431
+            "stars": 7432
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-21T11:34:49Z",
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 81554
+            "stars": 81574
           }
         },
         {
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 1131194319,
             "language": "Java",
-            "last_commit": "2026-08-21T11:53:46Z",
+            "last_commit": "2026-08-23T00:16:05Z",
             "owner": "DetachHead",
             "repo": "rebased",
-            "stars": 5259
+            "stars": 5262
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-07-21T07:18:29Z",
             "owner": "Murmele",
             "repo": "Gittyup",
-            "stars": 2259
+            "stars": 2260
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2024-10-15T07:18:48Z",
             "owner": "stevemao",
             "repo": "awesome-git-addons",
-            "stars": 2192
+            "stars": 2194
           }
         },
         {
@@ -219,7 +219,7 @@
             "archived": false,
             "id": 156317154,
             "language": "Java",
-            "last_commit": "2026-08-22T15:19:48Z",
+            "last_commit": "2026-08-23T00:07:46Z",
             "owner": "theonedev",
             "repo": "onedev",
             "stars": 15170
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-12T20:42:49Z",
             "owner": "charmbracelet",
             "repo": "soft-serve",
-            "stars": 7189
+            "stars": 7193
           }
         }
       ],
@@ -273,7 +273,7 @@
             "last_commit": "2026-03-19T23:03:16Z",
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35277
+            "stars": 35280
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-21T08:12:46Z",
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8703
+            "stars": 8712
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-07-23T16:06:45Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175412
+            "stars": 175424
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-17T06:15:49Z",
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18094
+            "stars": 18096
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-07-27T23:00:48Z",
             "owner": "jonas",
             "repo": "tig",
-            "stars": 13313
+            "stars": 13314
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-08-09T07:29:51Z",
             "owner": "release-it",
             "repo": "release-it",
-            "stars": 9031
+            "stars": 9032
           }
         },
         {
@@ -411,10 +411,10 @@
             "archived": false,
             "id": 15639771,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T17:58:59Z",
+            "last_commit": "2026-08-23T17:03:45Z",
             "owner": "conventional-changelog",
             "repo": "conventional-changelog",
-            "stars": 8500
+            "stars": 8501
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2026-04-10T16:26:04Z",
             "owner": "magicmonty",
             "repo": "bash-git-prompt",
-            "stars": 6934
+            "stars": 6935
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2026-02-14T03:44:46Z",
             "owner": "tummychow",
             "repo": "git-absorb",
-            "stars": 5695
+            "stars": 5697
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2024-10-15T07:18:48Z",
             "owner": "stevemao",
             "repo": "awesome-git-addons",
-            "stars": 2192
+            "stars": 2194
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-08-19T07:46:36Z",
             "owner": "cooperspencer",
             "repo": "gickup",
-            "stars": 1446
+            "stars": 1447
           }
         },
         {
@@ -531,10 +531,10 @@
             "archived": false,
             "id": 24296070,
             "language": "Shell",
-            "last_commit": "2026-08-22T13:15:56Z",
+            "last_commit": "2026-08-23T13:31:26Z",
             "owner": "unixorn",
             "repo": "git-extra-commands",
-            "stars": 1168
+            "stars": 1169
           }
         },
         {
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:26:31.615Z",
+    "last_updated": "2026-08-23T23:26:14.442Z",
     "original_repository": "dictcp/awesome-git",
     "original_repository_id": 41074904,
     "original_repository_sha": "53cbab1c00dec23a2c2c5e4cb39c8ebae2275eda",
