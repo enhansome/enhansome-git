@@ -111,7 +111,7 @@
             "last_commit": "2026-08-21T11:34:49Z",
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 81602
+            "stars": 81607
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-24T14:02:29Z",
             "owner": "DetachHead",
             "repo": "rebased",
-            "stars": 5272
+            "stars": 5274
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-24T15:52:32Z",
             "owner": "theonedev",
             "repo": "onedev",
-            "stars": 15175
+            "stars": 15176
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-08-12T18:34:32Z",
             "owner": "sds",
             "repo": "overcommit",
-            "stars": 4008
+            "stars": 4007
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-07-23T16:06:45Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175442
+            "stars": 175443
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-17T06:15:49Z",
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18096
+            "stars": 18097
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2026-04-10T16:26:04Z",
             "owner": "magicmonty",
             "repo": "bash-git-prompt",
-            "stars": 6935
+            "stars": 6936
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2026-08-24T09:15:38Z",
             "owner": "x-motemen",
             "repo": "ghq",
-            "stars": 3753
+            "stars": 3754
           }
         },
         {
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:26:48.465Z",
+    "last_updated": "2026-08-25T05:54:32.313Z",
     "original_repository": "dictcp/awesome-git",
     "original_repository_id": 41074904,
     "original_repository_sha": "53cbab1c00dec23a2c2c5e4cb39c8ebae2275eda",
