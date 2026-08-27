@@ -108,10 +108,10 @@
             "archived": false,
             "id": 134017286,
             "language": "Go",
-            "last_commit": "2026-08-26T17:09:12Z",
+            "last_commit": "2026-08-27T07:55:18Z",
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 81671
+            "stars": 81680
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-24T14:02:29Z",
             "owner": "DetachHead",
             "repo": "rebased",
-            "stars": 5304
+            "stars": 5308
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-25T12:32:38Z",
             "owner": "theonedev",
             "repo": "onedev",
-            "stars": 15185
+            "stars": 15188
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-22T21:43:38Z",
             "owner": "gitbucket",
             "repo": "gitbucket",
-            "stars": 9394
+            "stars": 9395
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-12T20:42:49Z",
             "owner": "charmbracelet",
             "repo": "soft-serve",
-            "stars": 7202
+            "stars": 7204
           }
         }
       ],
@@ -273,7 +273,7 @@
             "last_commit": "2026-03-19T23:03:16Z",
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35286
+            "stars": 35288
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-25T14:37:45Z",
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8732
+            "stars": 8733
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-25T17:02:50Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175467
+            "stars": 175470
           }
         },
         {
@@ -366,10 +366,10 @@
             "archived": false,
             "id": 817345,
             "language": "Shell",
-            "last_commit": "2026-08-17T06:15:49Z",
+            "last_commit": "2026-08-27T05:59:29Z",
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18098
+            "stars": 18097
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-08-09T07:29:51Z",
             "owner": "release-it",
             "repo": "release-it",
-            "stars": 9034
+            "stars": 9038
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-08-26T20:07:31Z",
             "owner": "conventional-changelog",
             "repo": "conventional-changelog",
-            "stars": 8501
+            "stars": 8502
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2026-02-14T03:44:46Z",
             "owner": "tummychow",
             "repo": "git-absorb",
-            "stars": 5699
+            "stars": 5700
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2026-08-24T09:15:38Z",
             "owner": "x-motemen",
             "repo": "ghq",
-            "stars": 3758
+            "stars": 3759
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-08-19T07:46:36Z",
             "owner": "cooperspencer",
             "repo": "gickup",
-            "stars": 1450
+            "stars": 1451
           }
         },
         {
@@ -602,9 +602,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:26:53.689Z",
-    "original_repository": "dictcp/awesome-git",
-    "original_repository_id": 41074904,
+    "last_updated": "2026-08-27T11:41:58.562Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 41074904,
+      "language": null,
+      "last_commit": "2026-07-07T07:00:27Z",
+      "owner": "dictcp",
+      "repo": "awesome-git",
+      "stars": 2935
+    },
     "original_repository_sha": "53cbab1c00dec23a2c2c5e4cb39c8ebae2275eda",
     "enhanced_repository": "enhansome/enhansome-git",
     "enhanced_repository_description": null,
