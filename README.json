@@ -15,8 +15,9 @@
             "last_commit": "2026-07-23T20:48:50Z",
             "owner": "k88hudson",
             "repo": "git-flight-rules",
-            "stars": 42599
-          }
+            "stars": 42600
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "git-tips",
             "repo": "tips",
             "stars": 21724
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "arslanbilal",
             "repo": "git-cheat-sheet",
             "stars": 7435
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "jlord",
             "repo": "git-it-electron",
             "stars": 4889
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "susam",
             "repo": "gitpr",
             "stars": 961
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "groda",
             "repo": "the_ultimate_gitignore_guide",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         }
       ],
       "title": "Tutorial"
@@ -108,11 +114,12 @@
             "archived": false,
             "id": 134017286,
             "language": "Go",
-            "last_commit": "2026-08-27T07:55:18Z",
+            "last_commit": "2026-08-27T17:38:28Z",
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 81680
-          }
+            "stars": 81715
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "FredrikNoren",
             "repo": "ungit",
             "stars": 10600
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2026-08-24T14:02:29Z",
             "owner": "DetachHead",
             "repo": "rebased",
-            "stars": 5308
-          }
+            "stars": 5313
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "Murmele",
             "repo": "Gittyup",
             "stars": 2263
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -171,8 +181,9 @@
             "last_commit": "2024-10-15T07:18:48Z",
             "owner": "stevemao",
             "repo": "awesome-git-addons",
-            "stars": 2195
-          }
+            "stars": 2196
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "sheimi",
             "repo": "SGit",
             "stars": 379
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "roblillack",
             "repo": "gitj",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         }
       ],
       "title": "Client"
@@ -219,11 +232,12 @@
             "archived": false,
             "id": 156317154,
             "language": "Java",
-            "last_commit": "2026-08-25T12:32:38Z",
+            "last_commit": "2026-08-27T15:34:32Z",
             "owner": "theonedev",
             "repo": "onedev",
-            "stars": 15188
-          }
+            "stars": 15189
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -234,11 +248,12 @@
             "archived": false,
             "id": 9350746,
             "language": "Scala",
-            "last_commit": "2026-08-22T21:43:38Z",
+            "last_commit": "2026-08-28T01:27:06Z",
             "owner": "gitbucket",
             "repo": "gitbucket",
-            "stars": 9395
-          }
+            "stars": 9396
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -252,8 +267,9 @@
             "last_commit": "2026-08-12T20:42:49Z",
             "owner": "charmbracelet",
             "repo": "soft-serve",
-            "stars": 7204
-          }
+            "stars": 7205
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         }
       ],
       "title": "Self-Hosted Repository"
@@ -273,8 +289,9 @@
             "last_commit": "2026-03-19T23:03:16Z",
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35288
-          }
+            "stars": 35289
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -288,8 +305,9 @@
             "last_commit": "2026-08-25T14:37:45Z",
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8733
-          }
+            "stars": 8735
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "sds",
             "repo": "overcommit",
             "stars": 4007
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "Escape-Technologies",
             "repo": "mookme",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "dirk",
             "repo": "quickhook",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         }
       ],
       "title": "Hook management"
@@ -354,8 +375,9 @@
             "last_commit": "2026-08-25T17:02:50Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175470
-          }
+            "stars": 175477
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "tj",
             "repo": "git-extras",
             "stars": 18097
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "jonas",
             "repo": "tig",
             "stars": 13318
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -399,8 +423,9 @@
             "last_commit": "2026-08-09T07:29:51Z",
             "owner": "release-it",
             "repo": "release-it",
-            "stars": 9038
-          }
+            "stars": 9040
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -414,8 +439,9 @@
             "last_commit": "2026-08-26T20:07:31Z",
             "owner": "conventional-changelog",
             "repo": "conventional-changelog",
-            "stars": 8502
-          }
+            "stars": 8503
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -429,8 +455,9 @@
             "last_commit": "2026-04-10T16:26:04Z",
             "owner": "magicmonty",
             "repo": "bash-git-prompt",
-            "stars": 6934
-          }
+            "stars": 6936
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -444,8 +471,9 @@
             "last_commit": "2022-09-20T18:09:09Z",
             "owner": "michenriksen",
             "repo": "gitrob",
-            "stars": 6198
-          }
+            "stars": 6199
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -459,8 +487,9 @@
             "last_commit": "2026-02-14T03:44:46Z",
             "owner": "tummychow",
             "repo": "git-absorb",
-            "stars": 5700
-          }
+            "stars": 5703
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -474,8 +503,9 @@
             "last_commit": "2026-08-24T09:15:38Z",
             "owner": "x-motemen",
             "repo": "ghq",
-            "stars": 3759
-          }
+            "stars": 3760
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -489,8 +519,9 @@
             "last_commit": "2024-10-15T07:18:48Z",
             "owner": "stevemao",
             "repo": "awesome-git-addons",
-            "stars": 2195
-          }
+            "stars": 2196
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -504,8 +535,9 @@
             "last_commit": "2026-08-19T07:46:36Z",
             "owner": "cooperspencer",
             "repo": "gickup",
-            "stars": 1451
-          }
+            "stars": 1450
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "lindell",
             "repo": "multi-gitter",
             "stars": 1232
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "unixorn",
             "repo": "git-extra-commands",
             "stars": 1168
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "amitsaha",
             "repo": "gitbackup",
             "stars": 234
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -565,7 +600,8 @@
             "owner": "jonhadfield",
             "repo": "soba",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -580,7 +616,8 @@
             "owner": "pazdera",
             "repo": "gitwalk",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         },
         {
           "node_type": "item",
@@ -595,14 +632,15 @@
             "owner": "nickolasburr",
             "repo": "git-follow",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T06:50:14.611Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:41:58.562Z",
+    "last_updated": "2026-08-28T06:50:14.611Z",
     "original_repository_info": {
       "archived": false,
       "id": 41074904,
@@ -610,7 +648,7 @@
       "last_commit": "2026-07-07T07:00:27Z",
       "owner": "dictcp",
       "repo": "awesome-git",
-      "stars": 2935
+      "stars": 2936
     },
     "original_repository_sha": "53cbab1c00dec23a2c2c5e4cb39c8ebae2275eda",
     "enhanced_repository": "enhansome/enhansome-git",
