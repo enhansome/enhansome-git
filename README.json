@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flight rules for git",
+            "homepage": null,
             "id": 22119721,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-07-23T20:48:50Z",
+            "open_issues": 14,
             "owner": "k88hudson",
             "repo": "git-flight-rules",
-            "stars": 42600
+            "stars": 42600,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -26,12 +31,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Most commonly used git tips and tricks.",
+            "homepage": "http://git.io/git-tips",
             "id": 39122628,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T06:01:21Z",
+            "open_issues": 2,
             "owner": "git-tips",
             "repo": "tips",
-            "stars": 21724
+            "stars": 21724,
+            "topics": [
+              "git",
+              "tips",
+              "tips-and-tricks"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -42,12 +56,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: git and git flow cheat sheet",
+            "homepage": null,
             "id": 22106110,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-04T07:50:34Z",
+            "open_issues": 2,
             "owner": "arslanbilal",
             "repo": "git-cheat-sheet",
-            "stars": 7435
+            "stars": 7436,
+            "topics": [
+              "cheatsheet",
+              "git",
+              "git-flow",
+              "github"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -58,12 +82,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub",
+            "homepage": null,
             "id": 35256589,
             "language": "Perl",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-04-10T10:28:06Z",
+            "open_issues": 139,
             "owner": "jlord",
             "repo": "git-it-electron",
-            "stars": 4889
+            "stars": 4888,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -74,12 +103,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quick reference guide on fork and pull request workflow",
+            "homepage": null,
             "id": 121846490,
             "language": "Makefile",
+            "license": null,
             "last_commit": "2024-02-13T05:17:17Z",
+            "open_issues": 1,
             "owner": "susam",
             "repo": "gitpr",
-            "stars": 961
+            "stars": 961,
+            "topics": [
+              "git",
+              "guide",
+              "pull-request",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -90,12 +129,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".gitignore Tutorial — Everything you never knew you needed to know about .gitignore! This beginner-friendly guide offers practical tips to keep your Git repos clean and your workflow efficient, with clear examples to help you master the basics and best practices of managing ignored files.",
+            "homepage": null,
             "id": 577058980,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-10T20:54:10Z",
+            "open_issues": 4,
             "owner": "groda",
             "repo": "the_ultimate_gitignore_guide",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "chatty-tutorial",
+              "git",
+              "gitignore",
+              "glob",
+              "tutorial",
+              "tutorials"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         }
@@ -112,12 +163,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple terminal UI for git commands",
+            "homepage": null,
             "id": 134017286,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:38:28Z",
+            "open_issues": 1024,
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 81715
+            "stars": 81737,
+            "topics": [
+              "cli",
+              "git",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -128,12 +188,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest way to use git. On any platform. Anywhere.",
+            "homepage": null,
             "id": 10154151,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T05:38:12Z",
+            "open_issues": 233,
             "owner": "FredrikNoren",
             "repo": "ungit",
-            "stars": 10600
+            "stars": 10600,
+            "topics": [
+              "git",
+              "javascript",
+              "nodejs",
+              "ui",
+              "ungit"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -144,12 +215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A git client based on the IntelliJ platform",
+            "homepage": null,
             "id": 1131194319,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T14:02:29Z",
+            "open_issues": 44,
             "owner": "DetachHead",
             "repo": "rebased",
-            "stars": 5313
+            "stars": 5319,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -160,12 +236,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Understand your Git history!",
+            "homepage": "https://murmele.github.io/Gittyup",
             "id": 204268389,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-07-21T07:18:29Z",
+            "open_issues": 386,
             "owner": "Murmele",
             "repo": "Gittyup",
-            "stars": 2263
+            "stars": 2265,
+            "topics": [
+              "cpp",
+              "git",
+              "gui-application",
+              "qt",
+              "scintilla",
+              "version-control"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -176,12 +264,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
+            "homepage": null,
             "id": 41139077,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-15T07:18:48Z",
+            "open_issues": 15,
             "owner": "stevemao",
             "repo": "awesome-git-addons",
-            "stars": 2196
+            "stars": 2196,
+            "topics": [
+              "add-on",
+              "add-ons",
+              "addon",
+              "addons",
+              "awesome",
+              "awesome-list",
+              "cli",
+              "git",
+              "hacktoberfest",
+              "list",
+              "lists",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -192,12 +298,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Git client for Android.",
+            "homepage": "http://tiny.cc/sgit",
             "id": 12382547,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2021-11-18T17:21:26Z",
+            "open_issues": 6,
             "owner": "sheimi",
             "repo": "SGit",
-            "stars": 379
+            "stars": 379,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -208,12 +319,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Git Journey: Classic-looking, cross-platform GUI git client",
+            "homepage": null,
             "id": 789031452,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-26T08:03:06Z",
+            "open_issues": 0,
             "owner": "roblillack",
             "repo": "gitj",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "git",
+              "gui",
+              "macos",
+              "rust",
+              "saudade",
+              "wayland",
+              "windows",
+              "x11"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         }
@@ -230,12 +355,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Unified and Autonomous Development Platform",
+            "homepage": "https://onedev.io",
             "id": 156317154,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-27T15:34:32Z",
+            "open_issues": 0,
             "owner": "theonedev",
             "repo": "onedev",
-            "stars": 15189
+            "stars": 15196,
+            "topics": [
+              "ai",
+              "ci-cd",
+              "devops",
+              "git",
+              "kanban",
+              "packages",
+              "self-hosted",
+              "workspaces"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -246,12 +385,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+            "homepage": "https://gitbucket.github.io/",
             "id": 9350746,
             "language": "Scala",
-            "last_commit": "2026-08-28T01:27:06Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:53:44Z",
+            "open_issues": 331,
             "owner": "gitbucket",
             "repo": "gitbucket",
-            "stars": 9396
+            "stars": 9400,
+            "topics": [
+              "git",
+              "gitbucket",
+              "scala",
+              "scalatra"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -262,12 +411,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The mighty, self-hostable Git server for the command line🍦",
+            "homepage": null,
             "id": 391209033,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-12T20:42:49Z",
+            "open_issues": 78,
             "owner": "charmbracelet",
             "repo": "soft-serve",
-            "stars": 7205
+            "stars": 7208,
+            "topics": [
+              "git",
+              "golang",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         }
@@ -284,12 +442,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Git hooks made easy 🐶 woof!",
+            "homepage": "https://typicode.github.io/husky",
             "id": 21125024,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-19T23:03:16Z",
+            "open_issues": 108,
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35289
+            "stars": 35293,
+            "topics": [
+              "commit",
+              "git",
+              "hooks",
+              "pre-commit"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -300,12 +468,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and powerful Git hooks manager for any type of projects.",
+            "homepage": "http://lefthook.dev/",
             "id": 169250119,
             "language": "Go",
-            "last_commit": "2026-08-25T14:37:45Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T10:16:45Z",
+            "open_issues": 88,
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 8735
+            "stars": 8739,
+            "topics": [
+              "git",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "hooks",
+              "lefthook",
+              "manager"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -316,12 +497,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fully configurable and extendable Git hook manager",
+            "homepage": null,
             "id": 1520275,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-12T18:34:32Z",
+            "open_issues": 33,
             "owner": "sds",
             "repo": "overcommit",
-            "stars": 4007
+            "stars": 4007,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -332,12 +518,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A pre-commit tool designed for monorepos. ",
+            "homepage": null,
             "id": 365191898,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-01-02T21:01:48Z",
+            "open_issues": 19,
             "owner": "Escape-Technologies",
             "repo": "mookme",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "monorepo",
+              "monorepos",
+              "pre-commit",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -348,12 +544,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Faster Git hook runner",
+            "homepage": null,
             "id": 66737553,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T17:47:03Z",
+            "open_issues": 0,
             "owner": "dirk",
             "repo": "quickhook",
-            "stars": 62
+            "stars": 61,
+            "topics": [
+              "git",
+              "git-hooks",
+              "golang",
+              "hooks",
+              "pre-commit"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         }
@@ -370,12 +577,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of useful .gitignore templates",
+            "homepage": null,
             "id": 1062897,
             "language": null,
-            "last_commit": "2026-08-25T17:02:50Z",
+            "license": "CC0-1.0",
+            "last_commit": "2026-08-28T20:19:00Z",
+            "open_issues": 83,
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175477
+            "stars": 175487,
+            "topics": [
+              "git",
+              "gitignore"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -386,12 +601,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",
+            "homepage": null,
             "id": 817345,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-27T05:59:29Z",
+            "open_issues": 95,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18097
+            "stars": 18097,
+            "topics": [
+              "git"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -402,12 +624,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Text-mode interface for git",
+            "homepage": "https://jonas.github.io/tig/",
             "id": 140656,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-27T23:00:48Z",
+            "open_issues": 232,
             "owner": "jonas",
             "repo": "tig",
-            "stars": 13318
+            "stars": 13318,
+            "topics": [
+              "c",
+              "git",
+              "ncurses",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -418,12 +650,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Automate versioning and package publishing",
+            "homepage": null,
             "id": 15921313,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-09T07:29:51Z",
+            "open_issues": 10,
             "owner": "release-it",
             "repo": "release-it",
-            "stars": 9040
+            "stars": 9040,
+            "topics": [
+              "automation",
+              "bump",
+              "changelog",
+              "ci-mode",
+              "cli",
+              "continuous-delivery",
+              "git",
+              "github",
+              "gitlab",
+              "gitlab-releases",
+              "hooks",
+              "npm",
+              "publish",
+              "release",
+              "release-automation",
+              "release-helper",
+              "semver",
+              "tool",
+              "version"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -434,12 +691,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate changelogs and release notes from a project's commit messages and metadata.",
+            "homepage": "http://conventional-changelog.js.org/",
             "id": 15639771,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T20:07:31Z",
+            "license": "ISC",
+            "last_commit": "2026-08-28T10:01:46Z",
+            "open_issues": 28,
             "owner": "conventional-changelog",
             "repo": "conventional-changelog",
-            "stars": 8503
+            "stars": 8503,
+            "topics": [
+              "changelog",
+              "git",
+              "hacktoberfest",
+              "history",
+              "metadata",
+              "tag"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -450,12 +719,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An informative and fancy bash prompt for Git users",
+            "homepage": null,
             "id": 7006572,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-04-10T16:26:04Z",
+            "open_issues": 35,
             "owner": "magicmonty",
             "repo": "bash-git-prompt",
-            "stars": 6936
+            "stars": 6937,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -466,12 +740,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Reconnaissance tool for GitHub organizations",
+            "homepage": "https://michenriksen.com/blog/gitrob-now-in-go/",
             "id": 28916646,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-09-20T18:09:09Z",
+            "open_issues": 74,
             "owner": "michenriksen",
             "repo": "gitrob",
-            "stars": 6199
+            "stars": 6199,
+            "topics": [
+              "github-api",
+              "golang",
+              "osint",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -482,12 +766,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "git commit --fixup, but automatic",
+            "homepage": "https://crates.io/crates/git-absorb",
             "id": 121587348,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-02-14T03:44:46Z",
+            "open_issues": 28,
             "owner": "tummychow",
             "repo": "git-absorb",
-            "stars": 5703
+            "stars": 5708,
+            "topics": [
+              "git",
+              "rebase"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -498,12 +790,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remote repository management made easy",
+            "homepage": null,
             "id": 8026846,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T09:15:38Z",
+            "open_issues": 43,
             "owner": "x-motemen",
             "repo": "ghq",
-            "stars": 3760
+            "stars": 3760,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -514,12 +811,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
+            "homepage": null,
             "id": 41139077,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-15T07:18:48Z",
+            "open_issues": 15,
             "owner": "stevemao",
             "repo": "awesome-git-addons",
-            "stars": 2196
+            "stars": 2196,
+            "topics": [
+              "add-on",
+              "add-ons",
+              "addon",
+              "addons",
+              "awesome",
+              "awesome-list",
+              "cli",
+              "git",
+              "hacktoberfest",
+              "list",
+              "lists",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -530,12 +845,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://gickup.dev/",
             "id": 372314653,
             "language": "Go",
-            "last_commit": "2026-08-19T07:46:36Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T14:18:36Z",
+            "open_issues": 46,
             "owner": "cooperspencer",
             "repo": "gickup",
-            "stars": 1450
+            "stars": 1452,
+            "topics": [
+              "backup",
+              "git"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -546,12 +869,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Update multiple repositories in with one command",
+            "homepage": null,
             "id": 264844037,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T23:03:51Z",
+            "open_issues": 57,
             "owner": "lindell",
             "repo": "multi-gitter",
-            "stars": 1232
+            "stars": 1232,
+            "topics": [
+              "automation",
+              "cli",
+              "commandline",
+              "developer-tools",
+              "devops",
+              "devtools",
+              "git",
+              "github",
+              "gitlab",
+              "go",
+              "golang",
+              "productivity",
+              "script"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -562,12 +904,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of git utilities, useful extra git scripts, tutorials and other useful articles.",
+            "homepage": null,
             "id": 24296070,
             "language": "Shell",
-            "last_commit": "2026-08-26T21:59:08Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:20:07Z",
+            "open_issues": 4,
             "owner": "unixorn",
             "repo": "git-extra-commands",
-            "stars": 1168
+            "stars": 1168,
+            "topics": [
+              "antigen",
+              "bash",
+              "collection",
+              "devops",
+              "devops-tools",
+              "git",
+              "hacktoberfest",
+              "oh-my-zsh",
+              "oh-my-zsh-plugin",
+              "prezto",
+              "shell-script",
+              "shell-scripts",
+              "sre",
+              "zgenom",
+              "zsh-plugin",
+              "zsh-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -578,12 +942,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool to backup your Bitbucket, GitHub, GitLab and Forgejo repositories",
+            "homepage": null,
             "id": 71038392,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-11T02:26:29Z",
+            "open_issues": 11,
             "owner": "amitsaha",
             "repo": "gitbackup",
-            "stars": 234
+            "stars": 234,
+            "topics": [
+              "backup",
+              "bitbucket",
+              "forgejo",
+              "git",
+              "github",
+              "gitlab",
+              "golang-application"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -594,12 +971,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated, encrypted Git repository backups from GitHub, GitLab, Bitbucket, Azure DevOps, Gitea, and Sourcehut",
+            "homepage": null,
             "id": 135833715,
             "language": "Go",
-            "last_commit": "2026-08-22T13:51:25Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T15:08:15Z",
+            "open_issues": 2,
             "owner": "jonhadfield",
             "repo": "soba",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "automation",
+              "azure-devops",
+              "backup",
+              "bitbucket",
+              "cli",
+              "docker",
+              "encryption",
+              "git",
+              "git-backup",
+              "git-bundle",
+              "gitea",
+              "github",
+              "gitlab",
+              "golang",
+              "kubernetes",
+              "repository-backup",
+              "self-hosted",
+              "sourcehut"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -610,12 +1011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulk processing of git repositories",
+            "homepage": null,
             "id": 27284988,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2018-10-17T15:13:07Z",
+            "open_issues": 7,
             "owner": "pazdera",
             "repo": "gitwalk",
-            "stars": 122
+            "stars": 122,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         },
@@ -626,12 +1032,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Follow lifetime changes of a pathspec in Git.",
+            "homepage": null,
             "id": 83103948,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2026-04-29T13:38:11Z",
+            "open_issues": 1,
             "owner": "nickolasburr",
             "repo": "git-follow",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "diff",
+              "git",
+              "git-diff",
+              "git-log",
+              "patch",
+              "stat"
+            ]
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
         }
@@ -640,15 +1058,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:50:14.611Z",
+    "last_updated": "2026-08-29T04:05:24.220Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of amazingly awesome Git tools, resources and shiny things",
+      "homepage": null,
       "id": 41074904,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-07T07:00:27Z",
+      "open_issues": 70,
       "owner": "dictcp",
       "repo": "awesome-git",
-      "stars": 2936
+      "stars": 2936,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "git"
+      ]
     },
     "original_repository_sha": "53cbab1c00dec23a2c2c5e4cb39c8ebae2275eda",
     "enhanced_repository": "enhansome/enhansome-git",
