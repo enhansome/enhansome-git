@@ -71,9 +71,9 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 *Git clients are available on every platform, from mainframe to your mobile device*
 
-* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 82,857 | 🐛 1,063 | 🌐 Go | 📅 2026-10-01 - A simple terminal UI for git commands, written in Go
+* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 82,858 | 🐛 1,063 | 🌐 Go | 📅 2026-10-01 - A simple terminal UI for git commands, written in Go
 * [Ungit](https://github.com/FredrikNoren/ungit) ⭐ 10,604 | 🐛 238 | 🌐 JavaScript | 📅 2026-09-03 - The easiest way to use git. On any platform. Anywhere.
-* [Rebased](https://github.com/DetachHead/rebased) ⭐ 5,783 | 🐛 44 | 🌐 Java | 📅 2026-09-28 - A git client based on the IntelliJ platform
+* [Rebased](https://github.com/DetachHead/rebased) ⭐ 5,784 | 🐛 44 | 🌐 Java | 📅 2026-09-28 - A git client based on the IntelliJ platform
 * [Gittyup](https://github.com/Murmele/Gittyup) ⭐ 2,292 | 🐛 362 | 🌐 C++ | 📅 2026-09-29 - a graphical Git client designed to help you understand and manage your source code history.
 * [Git Add-ons](https://github.com/stevemao/awesome-git-addons) ⭐ 2,204 | 🐛 17 | 📅 2024-10-15 - Enhance the basic `git` CLI
 * [SGit](https://github.com/sheimi/SGit) ⭐ 379 | 🐛 6 | 🌐 Java | 📅 2021-11-18 - Git client for Android 4.x
@@ -100,8 +100,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 * [GitHub](https://github.com/) - the de-facto git hosting service. Perfect integration with most external services.
   * [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) ⭐ 969 | 🐛 13 | 📅 2024-03-04 - Resources & Learning for GitHub
-    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 59,413 | 🐛 49 | 📅 2024-04-15
-    * [GitHub Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github) ⭐ 3,305 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-18
+    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 59,418 | 🐛 49 | 📅 2024-04-15
+    * [GitHub Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github) ⭐ 3,306 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-18
 * [BitBucket](https://bitbucket.org/) - well-known for its free private repository (5 user max).
 * [Jetbrains Space](https://www.jetbrains.com/space/) - Jetbrains all-in-one solution for software teams, with IM, ticket tracking, source control.
 * [GitLab.com](https://about.gitlab.com/gitlab-com/) - a free Git repository hosting service served by GitLab EE. Unlimited repositories and private collaborators
@@ -159,7 +159,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 * [husky](https://github.com/typicode/husky) ⭐ 35,337 | 🐛 107 | 🌐 JavaScript | 📅 2026-03-19 - modern native Git hooks made easy.
 * [lefthook](https://github.com/evilmartians/lefthook) ⭐ 8,878 | 🐛 88 | 🌐 Go | 📅 2026-10-02 - fast and powerful Git hooks manager for any type of project.
-* [Overcommit](https://github.com/brigade/overcommit) ⭐ 4,006 | 🐛 36 | 🌐 Ruby | 📅 2026-09-06 - a extendable Git hook manager written with Ruby.
+* [Overcommit](https://github.com/brigade/overcommit) ⭐ 4,005 | 🐛 36 | 🌐 Ruby | 📅 2026-09-06 - a extendable Git hook manager written with Ruby.
 * [Mookme](https://github.com/Escape-Technologies/mookme) ⚠️ Archived - A simple and easy-to-use, yet powerful and language agnostic git hook for monorepos.
 * [quickhook](https://github.com/dirk/quickhook) ⭐ 61 | 🐛 0 | 🌐 Go | 📅 2026-08-26 - a fast, Unix'y, opinionated Git hook runner.
 * [pre-commit](https://pre-commit.com) - a framework for managing and maintaining multi-language pre-commit hooks.
@@ -169,9 +169,9 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 *Various tools for daily operations*
 
-* [GitIgnore Collection](https://github.com/github/gitignore) ⭐ 176,014 | 🐛 66 | 📅 2026-10-02 - collection of gitignore files for various programming language
+* [GitIgnore Collection](https://github.com/github/gitignore) ⭐ 176,015 | 🐛 66 | 📅 2026-10-02 - collection of gitignore files for various programming language
 * [git-extras](https://github.com/tj/git-extras) ⭐ 18,117 | 🐛 93 | 🌐 Shell | 📅 2026-10-02 – git utilities adding useful git commands.
-* [tig](https://github.com/jonas/tig) ⭐ 13,351 | 🐛 233 | 🌐 C | 📅 2026-09-19 - text-mode interface for git.
+* [tig](https://github.com/jonas/tig) ⭐ 13,352 | 🐛 233 | 🌐 C | 📅 2026-09-19 - text-mode interface for git.
 * [release-it](https://github.com/webpro/release-it) ⭐ 9,065 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-17 - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 * [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) ⭐ 8,514 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-30 - a set of tools for parsing [conventional commit](https://conventionalcommits.org/) messages from git histories
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) ⭐ 6,936 | 🐛 34 | 🌐 Shell | 📅 2026-09-17 - An informative and fancy bash prompt for Git users
@@ -180,7 +180,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 * [ghq](https://github.com/motemen/ghq) ⭐ 3,782 | 🐛 34 | 🌐 Go | 📅 2026-09-29 — Organization for remote repositories
 * [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) ⭐ 2,204 | 🐛 17 | 📅 2024-10-15 - lists more than 20 git addons including all available commands
 * [gickup](https://github.com/cooperspencer/gickup) ⭐ 1,483 | 🐛 45 | 🌐 Go | 📅 2026-09-20 - Backup repos from various hosters to local or other hosters.
-* [multi-gitter](https://github.com/lindell/multi-gitter) ⭐ 1,237 | 🐛 60 | 🌐 Go | 📅 2026-10-02 - a tool to make changes in multiple repositories simultaneously
+* [multi-gitter](https://github.com/lindell/multi-gitter) ⭐ 1,237 | 🐛 60 | 🌐 Go | 📅 2026-10-03 - a tool to make changes in multiple repositories simultaneously
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) ⭐ 1,171 | 🐛 4 | 🌐 Shell | 📅 2026-10-02 - Another collection of useful git commands.
 * [gitbackup](https://github.com/amitsaha/gitbackup) ⭐ 239 | 🐛 12 | 🌐 Go | 📅 2026-09-14 - a tool to backup your Bitbucket, GitHub and GitLab repositories.
 * [soba](https://github.com/jonhadfield/soba) ⭐ 173 | 🐛 0 | 🌐 Go | 📅 2026-10-02 - scheduled backups of repositories from popular providers with change detection.

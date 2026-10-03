@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Git Tips",
-          "description": null,
+          "description": "git-tips/tips",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -52,7 +52,7 @@
         {
           "node_type": "item",
           "title": "Git & Git-Flow Cheat Sheet",
-          "description": null,
+          "description": "arslanbilal/git-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -172,7 +172,7 @@
             "open_issues": 1063,
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 82857,
+            "stars": 82858,
             "topics": [
               "cli",
               "git",
@@ -224,7 +224,7 @@
             "open_issues": 44,
             "owner": "DetachHead",
             "repo": "rebased",
-            "stars": 5783,
+            "stars": 5784,
             "topics": []
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
@@ -507,7 +507,7 @@
             "open_issues": 36,
             "owner": "sds",
             "repo": "overcommit",
-            "stars": 4006,
+            "stars": 4005,
             "topics": []
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
@@ -588,7 +588,7 @@
             "open_issues": 66,
             "owner": "github",
             "repo": "gitignore",
-            "stars": 176014,
+            "stars": 176015,
             "topics": [
               "git",
               "gitignore"
@@ -635,7 +635,7 @@
             "open_issues": 233,
             "owner": "jonas",
             "repo": "tig",
-            "stars": 13351,
+            "stars": 13352,
             "topics": [
               "c",
               "git",
@@ -876,7 +876,7 @@
             "id": 264844037,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T01:14:06Z",
+            "last_commit": "2026-10-03T04:40:21Z",
             "open_issues": 60,
             "owner": "lindell",
             "repo": "multi-gitter",
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:49:50.906Z",
+    "last_updated": "2026-10-03T04:49:03.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Git tools, resources and shiny things",
