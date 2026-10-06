@@ -25,9 +25,9 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 *There are tons of learning material on the Web*
 
-* [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) ⭐ 42,594 | 🐛 14 | 📅 2026-10-02 - guide about what to do when things go wrong
+* [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) ⭐ 42,596 | 🐛 14 | 📅 2026-10-02 - guide about what to do when things go wrong
 * [Git Tips](https://github.com/git-tips/tips) ⭐ 21,729 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-03
-* [Git & Git-Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet) ⭐ 7,469 | 🐛 2 | 📅 2026-03-04
+* [Git & Git-Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet) ⭐ 7,468 | 🐛 2 | 📅 2026-03-04
 * [Git-It](https://github.com/jlord/git-it-electron) ⭐ 4,889 | 🐛 139 | 🌐 Perl | 📅 2024-04-10 - Interactive Tutorial App that runs on your Desktop!
 * [Fork and Pull Request Workflow](https://github.com/susam/gitpr) ⭐ 959 | 🐛 1 | 🌐 Makefile | 📅 2024-02-13 - Very nicely explained, simple and crisp way of understanding git fork and pull request workflow.
 * [The ultimate guide to <code>.gitignore</code>](https://github.com/groda/the_ultimate_gitignore_guide) ⭐ 41 | 🐛 5 | 📅 2026-04-10 All about `.gitignore`.
@@ -71,9 +71,9 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 *Git clients are available on every platform, from mainframe to your mobile device*
 
-* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 82,911 | 🐛 1,047 | 🌐 Go | 📅 2026-10-05 - A simple terminal UI for git commands, written in Go
+* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 82,920 | 🐛 1,044 | 🌐 Go | 📅 2026-10-05 - A simple terminal UI for git commands, written in Go
 * [Ungit](https://github.com/FredrikNoren/ungit) ⭐ 10,604 | 🐛 241 | 🌐 JavaScript | 📅 2026-09-03 - The easiest way to use git. On any platform. Anywhere.
-* [Rebased](https://github.com/DetachHead/rebased) ⭐ 5,796 | 🐛 45 | 🌐 Java | 📅 2026-10-05 - A git client based on the IntelliJ platform
+* [Rebased](https://github.com/DetachHead/rebased) ⭐ 5,796 | 🐛 45 | 🌐 Java | 📅 2026-10-06 - A git client based on the IntelliJ platform
 * [Gittyup](https://github.com/Murmele/Gittyup) ⭐ 2,294 | 🐛 361 | 🌐 C++ | 📅 2026-10-05 - a graphical Git client designed to help you understand and manage your source code history.
 * [Git Add-ons](https://github.com/stevemao/awesome-git-addons) ⭐ 2,203 | 🐛 17 | 📅 2024-10-15 - Enhance the basic `git` CLI
 * [SGit](https://github.com/sheimi/SGit) ⭐ 379 | 🐛 6 | 🌐 Java | 📅 2021-11-18 - Git client for Android 4.x
@@ -100,7 +100,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 * [GitHub](https://github.com/) - the de-facto git hosting service. Perfect integration with most external services.
   * [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) ⭐ 969 | 🐛 13 | 📅 2024-03-04 - Resources & Learning for GitHub
-    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 59,477 | 🐛 50 | 📅 2024-04-15
+    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 59,485 | 🐛 50 | 📅 2024-04-15
     * [GitHub Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github) ⭐ 3,306 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-18
 * [BitBucket](https://bitbucket.org/) - well-known for its free private repository (5 user max).
 * [Jetbrains Space](https://www.jetbrains.com/space/) - Jetbrains all-in-one solution for software teams, with IM, ticket tracking, source control.
@@ -114,7 +114,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 *Or you can host the code yourselves*
 
-* [onedev](https://github.com/theonedev/onedev) ⭐ 15,278 | 🐛 0 | 🌐 Java | 📅 2026-10-05 - Self-hosted Git Server with Kanban and CI/CD
+* [onedev](https://github.com/theonedev/onedev) ⭐ 15,281 | 🐛 0 | 🌐 Java | 📅 2026-10-05 - Self-hosted Git Server with Kanban and CI/CD
 * [GitBucket](https://github.com/takezoe/gitbucket/) ⭐ 9,402 | 🐛 334 | 🌐 Scala | 📅 2026-10-05 - a GitHub clone powered by Scala.
 * [Soft Serve](https://github.com/charmbracelet/soft-serve) ⭐ 7,250 | 🐛 83 | 🌐 Go | 📅 2026-10-05 - a tasty, self-hostable Git server for the command line
 * [Gitolite](https://gitolite.com/gitolite/) - a simple with fine-grained access control
@@ -157,7 +157,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 *Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)*
 
-* [husky](https://github.com/typicode/husky) ⭐ 35,338 | 🐛 107 | 🌐 JavaScript | 📅 2026-03-19 - modern native Git hooks made easy.
+* [husky](https://github.com/typicode/husky) ⭐ 35,339 | 🐛 107 | 🌐 JavaScript | 📅 2026-03-19 - modern native Git hooks made easy.
 * [lefthook](https://github.com/evilmartians/lefthook) ⭐ 8,882 | 🐛 85 | 🌐 Go | 📅 2026-10-05 - fast and powerful Git hooks manager for any type of project.
 * [Overcommit](https://github.com/brigade/overcommit) ⭐ 4,005 | 🐛 36 | 🌐 Ruby | 📅 2026-09-06 - a extendable Git hook manager written with Ruby.
 * [Mookme](https://github.com/Escape-Technologies/mookme) ⚠️ Archived - A simple and easy-to-use, yet powerful and language agnostic git hook for monorepos.
@@ -169,7 +169,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 *Various tools for daily operations*
 
-* [GitIgnore Collection](https://github.com/github/gitignore) ⭐ 176,023 | 🐛 67 | 📅 2026-10-02 - collection of gitignore files for various programming language
+* [GitIgnore Collection](https://github.com/github/gitignore) ⭐ 176,027 | 🐛 67 | 📅 2026-10-02 - collection of gitignore files for various programming language
 * [git-extras](https://github.com/tj/git-extras) ⭐ 18,118 | 🐛 93 | 🌐 Shell | 📅 2026-10-02 – git utilities adding useful git commands.
 * [tig](https://github.com/jonas/tig) ⭐ 13,357 | 🐛 234 | 🌐 C | 📅 2026-09-19 - text-mode interface for git.
 * [release-it](https://github.com/webpro/release-it) ⭐ 9,065 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-17 - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.

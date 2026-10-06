@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "k88hudson",
             "repo": "git-flight-rules",
-            "stars": 42594,
+            "stars": 42596,
             "topics": []
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
@@ -65,7 +65,7 @@
             "open_issues": 2,
             "owner": "arslanbilal",
             "repo": "git-cheat-sheet",
-            "stars": 7469,
+            "stars": 7468,
             "topics": [
               "cheatsheet",
               "git",
@@ -169,10 +169,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-05T17:23:36Z",
-            "open_issues": 1047,
+            "open_issues": 1044,
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 82911,
+            "stars": 82920,
             "topics": [
               "cli",
               "git",
@@ -220,7 +220,7 @@
             "id": 1131194319,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T04:20:19Z",
+            "last_commit": "2026-10-06T10:26:51Z",
             "open_issues": 45,
             "owner": "DetachHead",
             "repo": "rebased",
@@ -364,7 +364,7 @@
             "open_issues": 0,
             "owner": "theonedev",
             "repo": "onedev",
-            "stars": 15278,
+            "stars": 15281,
             "topics": [
               "ai",
               "ci-cd",
@@ -452,7 +452,7 @@
             "open_issues": 107,
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35338,
+            "stars": 35339,
             "topics": [
               "commit",
               "git",
@@ -588,7 +588,7 @@
             "open_issues": 67,
             "owner": "github",
             "repo": "gitignore",
-            "stars": 176023,
+            "stars": 176027,
             "topics": [
               "git",
               "gitignore"
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:49:31.979Z",
+    "last_updated": "2026-10-06T10:26:56.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Git tools, resources and shiny things",
