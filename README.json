@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "k88hudson",
             "repo": "git-flight-rules",
-            "stars": 42579,
+            "stars": 42578,
             "topics": []
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
@@ -40,7 +40,7 @@
             "open_issues": 5,
             "owner": "git-tips",
             "repo": "tips",
-            "stars": 21724,
+            "stars": 21722,
             "topics": [
               "git",
               "tips",
@@ -168,11 +168,11 @@
             "id": 134017286,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-11T00:06:06Z",
+            "last_commit": "2026-11-11T18:50:57Z",
             "open_issues": 1074,
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 83810,
+            "stars": 83853,
             "topics": [
               "cli",
               "git",
@@ -224,7 +224,7 @@
             "open_issues": 47,
             "owner": "DetachHead",
             "repo": "rebased",
-            "stars": 6488,
+            "stars": 6502,
             "topics": []
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
@@ -245,7 +245,7 @@
             "open_issues": 367,
             "owner": "Murmele",
             "repo": "Gittyup",
-            "stars": 2322,
+            "stars": 2325,
             "topics": [
               "cpp",
               "git",
@@ -303,11 +303,11 @@
             "id": 1138555358,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-10T16:20:09Z",
+            "last_commit": "2026-11-11T09:32:42Z",
             "open_issues": 77,
             "owner": "Auto-Explore",
             "repo": "GitComet",
-            "stars": 1026,
+            "stars": 1028,
             "topics": [
               "cross-platform",
               "desktop-app",
@@ -394,7 +394,7 @@
             "open_issues": 0,
             "owner": "theonedev",
             "repo": "onedev",
-            "stars": 15352,
+            "stars": 15356,
             "topics": [
               "ai",
               "ci-cd",
@@ -451,7 +451,7 @@
             "open_issues": 88,
             "owner": "charmbracelet",
             "repo": "soft-serve",
-            "stars": 7265,
+            "stars": 7264,
             "topics": [
               "git",
               "golang",
@@ -479,10 +479,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-03-19T23:03:16Z",
-            "open_issues": 109,
+            "open_issues": 111,
             "owner": "typicode",
             "repo": "husky",
-            "stars": 35388,
+            "stars": 35389,
             "topics": [
               "commit",
               "git",
@@ -508,7 +508,7 @@
             "open_issues": 115,
             "owner": "evilmartians",
             "repo": "lefthook",
-            "stars": 9019,
+            "stars": 9021,
             "topics": [
               "git",
               "go",
@@ -533,8 +533,8 @@
             "id": 1520275,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-11T02:24:22Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-11T06:42:47Z",
+            "open_issues": 0,
             "owner": "sds",
             "repo": "overcommit",
             "stars": 4004,
@@ -618,7 +618,7 @@
             "open_issues": 26,
             "owner": "github",
             "repo": "gitignore",
-            "stars": 176540,
+            "stars": 176427,
             "topics": [
               "git",
               "gitignore"
@@ -638,8 +638,8 @@
             "id": 817345,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-09T07:31:47Z",
-            "open_issues": 93,
+            "last_commit": "2026-11-11T06:32:03Z",
+            "open_issues": 92,
             "owner": "tj",
             "repo": "git-extras",
             "stars": 18130,
@@ -661,7 +661,7 @@
             "id": 140656,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-13T16:57:21Z",
+            "last_commit": "2026-11-11T12:36:48Z",
             "open_issues": 236,
             "owner": "jonas",
             "repo": "tig",
@@ -691,7 +691,7 @@
             "open_issues": 10,
             "owner": "release-it",
             "repo": "release-it",
-            "stars": 9084,
+            "stars": 9083,
             "topics": [
               "automation",
               "bump",
@@ -728,8 +728,8 @@
             "id": 15639771,
             "language": "TypeScript",
             "license": "ISC",
-            "last_commit": "2026-11-06T01:52:15Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-12T01:31:54Z",
+            "open_issues": 22,
             "owner": "conventional-changelog",
             "repo": "conventional-changelog",
             "stars": 8531,
@@ -756,8 +756,8 @@
             "id": 7006572,
             "language": "Shell",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-05T13:21:53Z",
-            "open_issues": 36,
+            "last_commit": "2026-11-11T15:20:40Z",
+            "open_issues": 35,
             "owner": "magicmonty",
             "repo": "bash-git-prompt",
             "stars": 6936,
@@ -781,7 +781,7 @@
             "open_issues": 74,
             "owner": "michenriksen",
             "repo": "gitrob",
-            "stars": 6198,
+            "stars": 6199,
             "topics": [
               "github-api",
               "golang",
@@ -807,7 +807,7 @@
             "open_issues": 31,
             "owner": "tummychow",
             "repo": "git-absorb",
-            "stars": 5762,
+            "stars": 5763,
             "topics": [
               "git",
               "rebase"
@@ -831,7 +831,7 @@
             "open_issues": 43,
             "owner": "x-motemen",
             "repo": "ghq",
-            "stars": 3808,
+            "stars": 3809,
             "topics": []
           },
           "first_seen": "2026-08-28T06:50:14.611Z"
@@ -886,7 +886,7 @@
             "open_issues": 46,
             "owner": "cooperspencer",
             "repo": "gickup",
-            "stars": 1506,
+            "stars": 1508,
             "topics": [
               "backup",
               "git"
@@ -906,7 +906,7 @@
             "id": 264844037,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T18:48:52Z",
+            "last_commit": "2026-11-12T03:00:17Z",
             "open_issues": 57,
             "owner": "lindell",
             "repo": "multi-gitter",
@@ -941,8 +941,8 @@
             "id": 24296070,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T15:05:52Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-11T16:04:57Z",
+            "open_issues": 4,
             "owner": "unixorn",
             "repo": "git-extra-commands",
             "stars": 1177,
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T02:38:29.890Z",
+    "last_updated": "2026-11-12T03:41:35.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Git tools, resources and shiny things",
