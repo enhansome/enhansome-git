@@ -25,9 +25,9 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 *There are tons of learning material on the Web*
 
-* [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) ⭐ 42,574 | 🐛 18 | 📅 2026-10-29 - guide about what to do when things go wrong
-* [Git Tips](https://github.com/git-tips/tips) ⭐ 21,727 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-31
-* [Git & Git-Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet) ⭐ 7,492 | 🐛 0 | 📅 2026-11-05
+* [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) ⭐ 42,574 | 🐛 12 | 📅 2026-11-22 - guide about what to do when things go wrong
+* [Git Tips](https://github.com/git-tips/tips) ⭐ 21,725 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-31
+* [Git & Git-Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet) ⭐ 7,493 | 🐛 0 | 📅 2026-11-05
 * [Git-It](https://github.com/jlord/git-it-electron) ⭐ 4,886 | 🐛 137 | 🌐 Perl | 📅 2024-04-10 - Interactive Tutorial App that runs on your Desktop!
 * [Fork and Pull Request Workflow](https://github.com/susam/gitpr) ⭐ 962 | 🐛 1 | 🌐 Makefile | 📅 2024-02-13 - Very nicely explained, simple and crisp way of understanding git fork and pull request workflow.
 * [The ultimate guide to <code>.gitignore</code>](https://github.com/groda/the_ultimate_gitignore_guide) ⭐ 42 | 🐛 5 | 📅 2026-04-10 All about `.gitignore`.
@@ -71,12 +71,12 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 *Git clients are available on every platform, from mainframe to your mobile device*
 
-* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 84,005 | 🐛 1,081 | 🌐 Go | 📅 2026-11-18 - A simple terminal UI for git commands, written in Go
-* [Ungit](https://github.com/FredrikNoren/ungit) ⭐ 10,615 | 🐛 243 | 🌐 JavaScript | 📅 2026-09-03 - The easiest way to use git. On any platform. Anywhere.
-* [Rebased](https://github.com/DetachHead/rebased) ⭐ 6,585 | 🐛 48 | 🌐 Java | 📅 2026-11-19 - A git client based on the IntelliJ platform
-* [Gittyup](https://github.com/Murmele/Gittyup) ⭐ 2,329 | 🐛 368 | 🌐 C++ | 📅 2026-11-03 - a graphical Git client designed to help you understand and manage your source code history.
-* [Git Add-ons](https://github.com/stevemao/awesome-git-addons) ⭐ 2,217 | 🐛 20 | 📅 2024-10-15 - Enhance the basic `git` CLI
-* [GitComet](https://github.com/Auto-Explore/GitComet) ⭐ 1,044 | 🐛 79 | 🌐 Rust | 📅 2026-11-21 - Fast git gui, Windows, macOs, Linux, written in Rust
+* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 84,016 | 🐛 1,084 | 🌐 Go | 📅 2026-11-22 - A simple terminal UI for git commands, written in Go
+* [Ungit](https://github.com/FredrikNoren/ungit) ⭐ 10,614 | 🐛 243 | 🌐 JavaScript | 📅 2026-09-03 - The easiest way to use git. On any platform. Anywhere.
+* [Rebased](https://github.com/DetachHead/rebased) ⭐ 6,598 | 🐛 48 | 🌐 Java | 📅 2026-11-19 - A git client based on the IntelliJ platform
+* [Gittyup](https://github.com/Murmele/Gittyup) ⭐ 2,331 | 🐛 368 | 🌐 C++ | 📅 2026-11-03 - a graphical Git client designed to help you understand and manage your source code history.
+* [Git Add-ons](https://github.com/stevemao/awesome-git-addons) ⭐ 2,218 | 🐛 20 | 📅 2024-10-15 - Enhance the basic `git` CLI
+* [GitComet](https://github.com/Auto-Explore/GitComet) ⭐ 1,045 | 🐛 77 | 🌐 Rust | 📅 2026-11-22 - Fast git gui, Windows, macOs, Linux, written in Rust
 * [SGit](https://github.com/sheimi/SGit) ⭐ 379 | 🐛 6 | 🌐 Java | 📅 2021-11-18 - Git client for Android 4.x
 * [gitj (Git Journey)](https://github.com/roblillack/gitj) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2026-11-01 - Fast, small, cross-platform GUI git client (gitk/git-gui style) with image diff support
 * [GitHub Desktop](https://desktop.github.com/) - Git Client by GitHub. works with GitHub and GitHub Enterprise seamlessly
@@ -101,8 +101,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 * [GitHub](https://github.com/) - the de-facto git hosting service. Perfect integration with most external services.
   * [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) ⭐ 975 | 🐛 12 | 📅 2024-03-04 - Resources & Learning for GitHub
-    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 60,538 | 🐛 50 | 📅 2024-04-15
-    * [GitHub Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github) ⭐ 3,331 | 🐛 32 | 🌐 JavaScript | 📅 2024-08-18
+    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 60,564 | 🐛 50 | 📅 2024-04-15
+    * [GitHub Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github) ⭐ 3,332 | 🐛 32 | 🌐 JavaScript | 📅 2024-08-18
 * [BitBucket](https://bitbucket.org/) - well-known for its free private repository (5 user max).
 * [Jetbrains Space](https://www.jetbrains.com/space/) - Jetbrains all-in-one solution for software teams, with IM, ticket tracking, source control.
 * [GitLab.com](https://about.gitlab.com/gitlab-com/) - a free Git repository hosting service served by GitLab EE. Unlimited repositories and private collaborators
@@ -115,7 +115,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 *Or you can host the code yourselves*
 
-* [onedev](https://github.com/theonedev/onedev) ⭐ 15,371 | 🐛 0 | 🌐 Java | 📅 2026-11-19 - Self-hosted Git Server with Kanban and CI/CD
+* [onedev](https://github.com/theonedev/onedev) ⭐ 15,374 | 🐛 0 | 🌐 Java | 📅 2026-11-19 - Self-hosted Git Server with Kanban and CI/CD
 * [GitBucket](https://github.com/takezoe/gitbucket/) ⭐ 9,427 | 🐛 327 | 🌐 Scala | 📅 2026-11-20 - a GitHub clone powered by Scala.
 * [Soft Serve](https://github.com/charmbracelet/soft-serve) ⚠️ Archived - a tasty, self-hostable Git server for the command line
 * [Gitolite](https://gitolite.com/gitolite/) - a simple with fine-grained access control
@@ -158,8 +158,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 *Git provide hooks at commit/push phrase, allowing integration with and code quality checking tool and Continuous Integration (CI)*
 
-* [husky](https://github.com/typicode/husky) ⭐ 35,398 | 🐛 110 | 🌐 JavaScript | 📅 2026-03-19 - modern native Git hooks made easy.
-* [lefthook](https://github.com/evilmartians/lefthook) ⭐ 9,050 | 🐛 113 | 🌐 Go | 📅 2026-11-16 - fast and powerful Git hooks manager for any type of project.
+* [husky](https://github.com/typicode/husky) ⭐ 35,402 | 🐛 110 | 🌐 JavaScript | 📅 2026-03-19 - modern native Git hooks made easy.
+* [lefthook](https://github.com/evilmartians/lefthook) ⭐ 9,052 | 🐛 113 | 🌐 Go | 📅 2026-11-16 - fast and powerful Git hooks manager for any type of project.
 * [Overcommit](https://github.com/brigade/overcommit) ⭐ 4,004 | 🐛 0 | 🌐 Ruby | 📅 2026-11-11 - a extendable Git hook manager written with Ruby.
 * [Mookme](https://github.com/Escape-Technologies/mookme) ⚠️ Archived - A simple and easy-to-use, yet powerful and language agnostic git hook for monorepos.
 * [quickhook](https://github.com/dirk/quickhook) ⭐ 61 | 🐛 0 | 🌐 Go | 📅 2026-08-26 - a fast, Unix'y, opinionated Git hook runner.
@@ -170,21 +170,21 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 *Various tools for daily operations*
 
-* [GitIgnore Collection](https://github.com/github/gitignore) ⭐ 176,419 | 🐛 15 | 📅 2026-11-20 - collection of gitignore files for various programming language
-* [git-extras](https://github.com/tj/git-extras) ⭐ 18,129 | 🐛 95 | 🌐 Shell | 📅 2026-11-19 – git utilities adding useful git commands.
+* [GitIgnore Collection](https://github.com/github/gitignore) ⭐ 176,428 | 🐛 15 | 📅 2026-11-20 - collection of gitignore files for various programming language
+* [git-extras](https://github.com/tj/git-extras) ⭐ 18,130 | 🐛 95 | 🌐 Shell | 📅 2026-11-19 – git utilities adding useful git commands.
 * [tig](https://github.com/jonas/tig) ⭐ 13,386 | 🐛 239 | 🌐 C | 📅 2026-11-11 - text-mode interface for git.
-* [release-it](https://github.com/webpro/release-it) ⭐ 9,087 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-21 - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+* [release-it](https://github.com/webpro/release-it) ⭐ 9,089 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-22 - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 * [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) ⭐ 8,532 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-20 - a set of tools for parsing [conventional commit](https://conventionalcommits.org/) messages from git histories
-* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) ⭐ 6,938 | 🐛 36 | 🌐 Shell | 📅 2026-11-16 - An informative and fancy bash prompt for Git users
+* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) ⭐ 6,939 | 🐛 36 | 🌐 Shell | 📅 2026-11-16 - An informative and fancy bash prompt for Git users
 * [Gitrob](https://github.com/michenriksen/gitrob) ⚠️ Archived - a command line tool to find sensitive information lingering in publicly available files on GitHub
-* [git-absorb](https://github.com/tummychow/git-absorb) ⭐ 5,766 | 🐛 31 | 🌐 Rust | 📅 2026-02-14 - `git commit --fixup`, but automatic
-* [ghq](https://github.com/motemen/ghq) ⭐ 3,822 | 🐛 45 | 🌐 Go | 📅 2026-11-16 — Organization for remote repositories
-* [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) ⭐ 2,217 | 🐛 20 | 📅 2024-10-15 - lists more than 20 git addons including all available commands
+* [git-absorb](https://github.com/tummychow/git-absorb) ⭐ 5,765 | 🐛 31 | 🌐 Rust | 📅 2026-02-14 - `git commit --fixup`, but automatic
+* [ghq](https://github.com/motemen/ghq) ⭐ 3,823 | 🐛 45 | 🌐 Go | 📅 2026-11-16 — Organization for remote repositories
+* [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) ⭐ 2,218 | 🐛 20 | 📅 2024-10-15 - lists more than 20 git addons including all available commands
 * [gickup](https://github.com/cooperspencer/gickup) ⭐ 1,515 | 🐛 46 | 🌐 Go | 📅 2026-11-03 - Backup repos from various hosters to local or other hosters.
-* [multi-gitter](https://github.com/lindell/multi-gitter) ⭐ 1,249 | 🐛 58 | 🌐 Go | 📅 2026-11-21 - a tool to make changes in multiple repositories simultaneously
+* [multi-gitter](https://github.com/lindell/multi-gitter) ⭐ 1,249 | 🐛 58 | 🌐 Go | 📅 2026-11-23 - a tool to make changes in multiple repositories simultaneously
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) ⭐ 1,176 | 🐛 4 | 🌐 Shell | 📅 2026-11-18 - Another collection of useful git commands.
 * [gitbackup](https://github.com/amitsaha/gitbackup) ⭐ 243 | 🐛 14 | 🌐 Go | 📅 2026-11-16 - a tool to backup your Bitbucket, GitHub and GitLab repositories.
-* [soba](https://github.com/jonhadfield/soba) ⭐ 175 | 🐛 0 | 🌐 Go | 📅 2026-11-21 - scheduled backups of repositories from popular providers with change detection.
+* [soba](https://github.com/jonhadfield/soba) ⭐ 175 | 🐛 0 | 🌐 Go | 📅 2026-11-22 - scheduled backups of repositories from popular providers with change detection.
 * [gitwalk](https://github.com/pazdera/gitwalk) ⭐ 120 | 🐛 7 | 🌐 CoffeeScript | 📅 2018-10-17 - Bulk processing of git repos
 * [git-follow](https://github.com/nickolasburr/git-follow) ⭐ 34 | 🐛 1 | 🌐 Perl | 📅 2026-04-29 - a tool for following lifetime changes of a file throughout the history of a Git repository.
 * [myrepos](https://myrepos.branchable.com/) - a tool to manage multiple version control repositories
@@ -206,4 +206,4 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
